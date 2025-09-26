@@ -9,12 +9,18 @@ We use the Breast Cancer Wisconsin Dataset from scikit-learn.
 
 **⚙️ Steps**
 Train-test split & standardization
+
 Logistic Regression training
+
 Evaluate with:
 Confusion Matrix
+
 Precision & Recall
+
 ROC-AUC Curve
+
 Threshold tuning
+
 Visualize sigmoid function
 
 **🖼️ Results**

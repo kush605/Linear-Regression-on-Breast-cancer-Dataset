@@ -25,5 +25,7 @@ Visualize sigmoid function
 
 **🖼️ Results**
 Confusion Matrix (results/confusion_matrix.png)
+
 ROC Curve (results/roc_curve.png)
+
 Sigmoid Function (results/sigmoid_curve.png)
